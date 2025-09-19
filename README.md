@@ -1,6 +1,6 @@
 
 ## Overview
-This repository contains the implementation of the design task specified in the Figma link. The task has been developed using **React.js** with the **Next.js** framework, showcasing my skills in building responsive and SEO-friendly web pages.
+The task has been developed using **React.js** with the **Next.js** framework, showcasing my skills in building responsive and SEO-friendly web pages.
 
 ## Live Demo
 The application is hosted on []() for easy access and evaluation.
